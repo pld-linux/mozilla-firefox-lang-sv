@@ -2,12 +2,12 @@
 Summary:	Swedish resources for Mozilla-firefox
 Summary(pl.UTF-8):	Szwedzkie pliki językowe dla Mozilli-firefox
 Name:		mozilla-firefox-lang-%{_lang}
-Version:	2.0.0.13
+Version:	2.0.0.14
 Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/sv-SE.xpi
-# Source0-md5:	9961e1a9a6e944d3bb45141d81effd87
+# Source0-md5:	caaa8ef734ab591de4eb75edcc1069af
 URL:		http://www.mozilla.org/
 BuildRequires:	unzip
 Requires:	mozilla-firefox >= %{version}
